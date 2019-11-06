@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Biblia 5.9</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="stary_testament">Stary Testament</string>
+    <string name="szukaj">Szukaj</string>
+    <string name="stary_i_nowy_testament">Stary i Nowy Testament</string>
+    <string name="komentarze">Komentarze</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nowy_testament">Nowy Testament</string>
+    <string name="ikona_komentarza">ikona komentarza</string>
+    <string name="czcionki">Czcionki wersetów</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="rozmiar">Rozmiar</string>
+    <string name="kolor">Kolor</string>
+    <string name="czcionki_rozdzia_w">Czcionki rozdziałów</string>
+    <string name="czcionki_komentarzy">Czcionki komentarzy</string>
+    <string name="komnetrarz_nr_2_kolor">Komnetrarz nr 2 kolor</string>
+    <string name="komnetrarz_nr_1_kolor">Komnetrarz nr 1 kolor</string>
+    <string name="nowy_stary_testament">Nowy + Stary Testament</string>
+    <string name="ksi_gi_z_komentarzem">Księgi z Komentarzem</string>
+    <string name="r_ne_tematy">Różne Tematy</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="komentarz">komentarz</string>
+    <string name="stary">Stary</string>
+    <string name="nowy">Nowy</string>
+    <string name="a">a</string>
+</resources>

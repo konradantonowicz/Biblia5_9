@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/id_nav_stary_testament"
+
+            android:title="@string/stary_testament" />
+        <item
+            android:id="@+id/id_nav_nowy_testament"
+
+            android:title="@string/nowy_testament" />
+        <item
+            android:id="@+id/id_nav_stary_nowy_testament"
+
+            android:title="@string/stary_i_nowy_testament" />
+        <item
+            android:id="@+id/id_nav_komentarze"
+
+            android:title="@string/komentarze" />
+
+        <item
+            android:id="@+id/id_nav_komentarze_rozne"
+
+            android:title="Różne Komentarze" />
+
+
+            <item
+                android:id="@+id/id_nav_szukaj"
+
+                android:title="@string/szukaj" />
+            <item
+                android:id="@+id/id_nav_ustawienia"
+
+                android:title="Ustawienia" />
+
+
+
+</menu>
