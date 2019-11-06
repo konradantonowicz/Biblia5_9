@@ -25,7 +25,7 @@ public class AktywnoscPokazKomentarz extends AppCompatActivity {
         int iloscc    = Integer.parseInt(Objects.requireNonNull(intent.getStringExtra("ilosctematow")));
         String         ksiega          = intent.getStringExtra("ksiega");
 
-System.out.println(ksiega+"/"+numer_tematu+"/"+iloscc);
+            System.out.println(ksiega+"/"+numer_tematu+"/"+iloscc);
 
         List<Fragment> fragments       = new ArrayList<>();
 
